@@ -1,5 +1,9 @@
 Botho by Open Optics Limited
--------------------------------
+
+Store: www.botho.co.uk
+
+Presentation: www.botho.co.uk/presentation
+
 
 Botho, operated by Open Optics Limited registered in England, UK, is the first and only open source eyewear brand that manufactures its products in the European Union!
 
